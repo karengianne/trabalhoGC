@@ -4,6 +4,16 @@ public class B {
 	private int B1;
 	
 	private float B2;
+	
+	private String B4;
+
+	public String getB4() {
+		return B4;
+	}
+
+	public void setB4(String b4) {
+		B4 = b4;
+	}
 
 	public int getB1() {
 		return B1;
