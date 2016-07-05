@@ -7,11 +7,9 @@ public class A {
 	
 	private String A3;
 	
+	private String Aramo4;
+
 	private String Aprinc4;
-	
-	public String getA3() {
-		return A3;
-	}
 
 	public String getAprinc4() {
 		return Aprinc4;
@@ -19,6 +17,18 @@ public class A {
 
 	public void setAprinc4(String aprinc4) {
 		Aprinc4 = aprinc4;
+	}
+	
+	public String getAramo4() {
+		return Aramo4;
+	}
+
+	public void setAramo4(String aramo4) {
+		Aramo4 = aramo4;
+	}
+
+	public String getA3() {
+		return A3;
 	}
 
 	public void setA3(String a3) {
