@@ -7,8 +7,18 @@ public class A {
 	
 	private String A3;
 	
+	private String Aprinc4;
+	
 	public String getA3() {
 		return A3;
+	}
+
+	public String getAprinc4() {
+		return Aprinc4;
+	}
+
+	public void setAprinc4(String aprinc4) {
+		Aprinc4 = aprinc4;
 	}
 
 	public void setA3(String a3) {
